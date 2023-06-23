@@ -1,6 +1,6 @@
 <center>
 
-![](county_map.jpg)
+![](county_map.png)
 </center>
 
 # Look up FIA survey unit names by county
